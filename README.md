@@ -1,7 +1,7 @@
 # URL-Phishing-Detection-System
 URL Phising Detection System Code, Document And Video Tutorial
 
-![image](https://github.com/user-attachments/assets/c3da229e-0733-4fa1-ab59-aa03d341e03b)
+![Phishing URL](https://github.com/user-attachments/assets/e5ddcf39-2d33-431f-ad53-95573810769f)
 
 ## Youtube link: https://youtu.be/nDxP_lJmVk4?si=lZj3YD0D7v47OZC8
 
